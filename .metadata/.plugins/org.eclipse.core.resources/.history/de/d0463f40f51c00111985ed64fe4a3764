@@ -1,0 +1,35 @@
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+import entities.Product;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the number of product: ");
+		int numberProduct = sc.nextInt();
+		
+		List<Product> products = new ArrayList<Product>();
+		
+		for (int i = 0; i < numberProduct; i++) {
+			System.out.printf("Product %d# data:%n", i);
+			
+			System.out.println("Common, used or imported (c/u/i)? ");
+			
+			System.out.println("Name: ");
+			
+			System.out.println("Price: ");
+			
+			System.out.println("Customes fee: ");
+			
+			System.out.println("Manufacture Date (YYYY-MM-DD): ");
+		}
+		
+		System.out.println("PRICE TAGS: ");
+		System.out.println();
+		
+		sc.close();
+	}
+}

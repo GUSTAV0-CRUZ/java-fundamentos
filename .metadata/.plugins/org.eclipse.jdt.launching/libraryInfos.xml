@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/home/gustavo-cruz/ide/sts/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_25.0.1.v20251108-1451" version="25.0.1">
+        <bootpath>
+            <entry path="null"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="null"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="null"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/home/gustavo-cruz/.sdkman/candidates/java/25-open" version="25"/>
+    <libraryInfo home="/home/gustavo-cruz/ide/sts/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_25.0.1.v20251108-1451/jre" version="25.0.1"/>
+</libraryInfos>
